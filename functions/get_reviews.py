@@ -1,4 +1,4 @@
-# This is the code for the IBM Cloud Function "get_dreviews". 
+# This is the code for the IBM Cloud Function "get_reviews". 
 # The function is part of a cloud-hosted API, so this code is not really part of
 # the codebase for the Django website. I am mainly leaving it here for my own reference 
 # and documentation's sake, as well as for any fellow learners who are curious about the 
